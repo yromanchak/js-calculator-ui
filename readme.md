@@ -1,3 +1,9 @@
+## npm install
+### npm start
+### npm run build
+
+<!-- 
+
 webpack-vanilla-js/
 ├── src/                    
 │   ├── assets/             
@@ -14,3 +20,5 @@ webpack-vanilla-js/
 ├── webpack.config.js        # Конфігурація Webpack
 ├── package.json
 ├── .gitignore
+
+-->
