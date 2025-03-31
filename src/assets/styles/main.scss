@@ -1,0 +1,12 @@
+@use './components/calculator' as *;
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  font-family: Arial, serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: url('../images/javascript.svg') no-repeat top left;
+}
