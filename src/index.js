@@ -4,6 +4,7 @@ import { Calculator } from "./components/calculator.js";
 document.addEventListener("DOMContentLoaded", () => {
   const calculator = new Calculator();
 // fix
+// new comment
   document
     .querySelectorAll("[data-number]")
     .forEach((button) =>
