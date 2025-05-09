@@ -5,6 +5,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const calculator = new Calculator();
 // fix
 // new comment
+
+// upd
   document
     .querySelectorAll("[data-number]")
     .forEach((button) =>
