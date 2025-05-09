@@ -1,10 +1,12 @@
 const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
-
+// try ammend
 // test rebase 2444444444
 // try rebase
-
+// dsfds
+//dffdsfsdfs
+///dfdsfdsfdsfds
 module.exports = {
   mode: "development",
   entry: "./src/index.js",
